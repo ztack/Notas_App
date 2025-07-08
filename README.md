@@ -30,9 +30,11 @@ Una aplicación Flutter sencilla para tomar y gestionar notas.
 ## Capturas de pantalla
 
 Estrutura Contenido
+
 ![imagen](image.png)
 
 Vista Previa
+
 ![imagen](https://github.com/user-attachments/assets/e17e0963-ef30-4d1b-ae16-1ca0a59238da)
 
 
