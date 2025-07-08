@@ -1,16 +1,40 @@
-# notas_app
+## notas_app
 
-A new Flutter project.
+Una aplicación Flutter sencilla para tomar y gestionar notas.
 
-## Getting Started
+## Características
 
-This project is a starting point for a Flutter application.
+- Crear, editar y eliminar notas
+- Organizar notas con títulos y contenido
+- Interfaz adaptable para dispositivos móviles
 
-A few resources to get you started if this is your first Flutter project:
+## Primeros pasos
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+1. Clona el repositorio:
+    ```bash
+    git clone https://github.com/yourusername/notas_app.git
+    ```
+2. Navega al directorio del proyecto:
+    ```bash
+    cd notas_app
+    ```
+3. Instala las dependencias:
+    ```bash
+    flutter pub get
+    ```
+4. Ejecuta la aplicación:
+    ```bash
+    flutter run
+    ```
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Capturas de pantalla
+
+<!-- Agrega capturas de pantalla aquí -->
+
+## Contribuciones
+
+¡Las contribuciones son bienvenidas! Por favor abre issues o envía pull requests.
+
+## Licencia
+
+Este proyecto está licenciado bajo la Licencia MIT.
