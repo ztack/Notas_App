@@ -25,6 +25,7 @@ class _HomeScreenState extends State<HomeScreen> {
   @override
   void initState() {
     super.initState();
+    futureNotas = _notaCRUD.getNotas();
     _loadNotes();
   }
 
